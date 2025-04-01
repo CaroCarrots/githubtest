@@ -1,2 +1,3 @@
-# githubtest
-this is a test for github
+# Kaggle Projects
+
+Repository for Kaggle competitions, storing code for future uses.
